@@ -1,0 +1,48 @@
+/**
+ * Styles for Account Record Form Component
+ */
+
+/* Section boxes */
+.slds-box {
+    background-color: #f3f3f3;
+    border-radius: 4px;
+}
+
+/* Section headers */
+.slds-text-heading_small {
+    color: #032d60;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+}
+
+/* Info box styling */
+.slds-theme_info {
+    background-color: #d8edff;
+    border-left: 3px solid #0176d3;
+}
+
+/* Loading state */
+lightning-spinner {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* Form field spacing */
+lightning-input-field {
+    margin-bottom: 0.5rem;
+}
+
+/* Card padding override */
+.slds-p-around_medium {
+    position: relative;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .slds-col.slds-size_1-of-2 {
+        width: 100%;
+    }
+}
