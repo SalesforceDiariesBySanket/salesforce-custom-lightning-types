@@ -595,31 +595,9 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 📝 License
+##  Support
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- **Salesforce** for the amazing Agentforce platform
-- **Lightning Design System** team for beautiful UI components
-- **Salesforce Developer Community** for inspiration and support
-
----
-
-## 📞 Support
-
-- **Issues**: [GitHub Issues](https://github.com/SalesforceDiariesBySanket/salesforce-custom-lightning-types/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/SalesforceDiariesBySanket/salesforce-custom-lightning-types/discussions)
-- **Blog**: [Salesforce Diaries by Sanket](https://salesforcediariesbysanket.com)
-
----
-
-## ⭐ Show Your Support
-
-If you find this project helpful, please give it a ⭐ on GitHub!
+- **Blog**: [Salesforce Diaries](https://salesforcediaries.com)
 
 ---
 
@@ -648,6 +626,6 @@ If you find this project helpful, please give it a ⭐ on GitHub!
 
 ---
 
-**Made with ❤️ by Salesforce Diaries by Sanket**
+**Made with ❤️ by [Salesforce Diaries](https://salesforcediaries.com)**
 
 *Happy Coding! 🚀*
